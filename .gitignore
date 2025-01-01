@@ -1,0 +1,8 @@
+/.clj-kondo/
+/.cpcache/
+/.lsp/
+/.nrepl-port
+/.shadow-cljs/
+/resources/public/js
+/node_modules/
+/resources/public/tailwind.css
